@@ -6,6 +6,12 @@ You can add the iCal feed URL to your calendar (e.g. [Google Calendar](https://g
 
 **iCal feed URL:** [https://www.fluidkeys.com/iff2019](https://www.fluidkeys.com/iff2019)
 
+**Setup Instructions**
+
+* [Google Calendar](https://github.com/fluidkeys/iff-2019-program-ical-feed#google-calendar)
+* [iPhone](https://github.com/fluidkeys/iff-2019-program-ical-feed#iphone-calendar)
+* [Android](https://github.com/fluidkeys/iff-2019-program-ical-feed#android-with-giggity)
+
 ## Google Calendar
 
 * Open [Google Calendar](https://calendar.google.com) on the desktop.
