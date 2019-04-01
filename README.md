@@ -56,4 +56,7 @@ Later, to delete the calender, go to 'Passwords & Accounts', tap the 'Subscribed
 2. Open Giggity
 3. Click the + icon in the top right
 4. Type the url `https://www.fluidkeys.com/iff2019` (or scan this QR Code)
+
+   ![](img/iff-2019-qrcode.png)
+
 6. Click OK
