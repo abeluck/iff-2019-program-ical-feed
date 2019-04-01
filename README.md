@@ -49,3 +49,11 @@ Go back to your calendar. On the left, under **Other calendars** you should see 
 ![Screenshot: IFF 2019 events showing in Calendar on an iPhone](https://raw.githubusercontent.com/fluidkeys/iff-2019-program-ical-feed/master/img/iphone-step-7.png)
 
 Later, to delete the calender, go to 'Passwords & Accounts', tap the 'Subscribed Calendars', select 'IFF 2019 events program' then at the bottom tap 'Delete Account'
+
+## Android with Giggity
+
+1. Download and install the app Giggity ([f-droid](https://f-droid.org/packages/net.gaast.giggity/), or [Google Play](https://play.google.com/store/apps/details?id=net.gaast.giggity))
+2. Open Giggity
+3. Click the + icon in the top right
+4. Type the url `https://www.fluidkeys.com/iff2019` (or scan this QR Code)
+6. Click OK
